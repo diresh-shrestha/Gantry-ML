@@ -1,9 +1,4 @@
-'/home/samcano/pyfiles/lines_final.csv'# -*- coding: utf-8 -*-
-"""
-Samuel Cano
-07.23.19
-CNN for line images
-"""
+
 import keras
 import tensorflow as tf
 from tensorflow.python.keras import datasets, layers, models
